@@ -1,2 +1,2 @@
 # hello-world
-this is test.My fist repository
+this is test.My first repository
